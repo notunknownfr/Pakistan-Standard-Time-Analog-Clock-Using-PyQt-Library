@@ -12,5 +12,5 @@ Features include:
 ** How to run **
 
     1. Install PyQt Library first using "pip install PyQt5"
-    2. Export all files in same package on your device
+    2. Use command "git clone https://github.com/yourusername/yourrepo.git" in your cmd
     3. Run your program
