@@ -12,5 +12,5 @@ Features include:
 ** How to run **
 
     1. Install PyQt Library first using "pip install PyQt5"
-    2. Use command "git clone https://github.com/yourusername/yourrepo.git" in your cmd
+    2. Use command "git clone https://github.com/notunknownfr/Pakistan-Standard-Time-Analog-Clock-Using-PyQt-Library.git" in your cmd
     3. Run your program
