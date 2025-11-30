@@ -1,14 +1,14 @@
 import sys
+import welcome
 from PyQt5.QtWidgets import QApplication
-import window
-import analog_clock
 
 def main():
     app=QApplication(sys.argv)
-    win=window.MainWindow()
 
-    win.show()
+    mainWindow=welcome.MainWindow()
+    timezoneSetup=welcome.TimeZoneSelectionScreen(mainWindow)
 
+   
     sys.exit(app.exec_())
 
 if __name__== "__main__":
